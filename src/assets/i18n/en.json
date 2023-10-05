@@ -1,0 +1,14 @@
+{
+	"login": {
+		"title": "My App",
+		"username.label": "Username",
+		"username.placeholder": "Username Here",
+		"password.label": "Password",
+		"password.placeholder": "Enter Password",
+		"button.name": "Signin",
+		"button.en": "English",
+		"button.ta": "Tamil",
+		"button.fr": "French",
+		"button.zh": "Chinese"
+	}
+}
